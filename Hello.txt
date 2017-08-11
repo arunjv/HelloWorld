@@ -3,5 +3,9 @@ Hi World,
 Dirtying my hands in git.
 Please feel free to ignore.
 
+Adding date:
+Today is 11th August 2017.
+I am editing my first document.
+
 Thanks,
 Arun Janarthanan V
