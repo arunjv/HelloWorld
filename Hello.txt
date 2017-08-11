@@ -7,5 +7,8 @@ Adding date:
 Today is 11th August 2017.
 I am editing my first document.
 
-Thanks,
+Editing this file for second time.
+Thank you, all.
+
+Regards,
 Arun Janarthanan V
