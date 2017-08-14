@@ -7,9 +7,11 @@ public class SingleMain {
 		Single s1=Single.getInstance();
 		Single s2=Single.getInstance();
 		Single s3=Single.getInstance();
+		Single s4=Single.getInstance();
 		s1.addVisitor();
 		s2.addVisitor();
 		s3.addVisitor();
+		s4.addVisitor();
 	}
 }
 
