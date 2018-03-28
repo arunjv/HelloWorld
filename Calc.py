@@ -9,4 +9,6 @@ def sub(a,b):
     return bigger -b
   else:
     return bigger -a
-  
+#Adding dummy method
+def dummy():
+  retrun None
