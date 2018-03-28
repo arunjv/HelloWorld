@@ -12,3 +12,6 @@ def sub(a,b):
 #Adding dummy method
 def dummy():
   retrun None
+#Compare
+def hello():
+  print "arun"
