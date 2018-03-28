@@ -15,3 +15,8 @@ def dummy():
   
 #all changes are done.
 #final copy
+=======
+#Compare
+def hello():
+  print "arun"
+
