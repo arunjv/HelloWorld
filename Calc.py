@@ -19,4 +19,3 @@ def dummy():
 #Compare
 def hello():
   print "arun"
-
